@@ -1,2 +1,3 @@
-# my-portfolio
-this is my professional portfolio
+#willgychen portfolio
+
+this is my personal portfolio Aws and ReactJS
