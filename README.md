@@ -7,3 +7,6 @@ this is my personal portfolio Aws and ReactJS
 
 git and github
 ssh
+html
+css
+google fontawesome
